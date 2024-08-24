@@ -1,6 +1,6 @@
 # dataStructureInCPP
 
-<a name="dataStructureInCPP/LinkedList/"><b>-Linked List</b></a>
+<a herf="dataStructureInCPP/LinkedList/"><b>-Linked List</b></a>
 <ul>
   <li><a name="dataStructureInCPP/LinkedList/linkedList.cpp#L6"> make a list with null value </a></li>
   <li><a name="dataStructureInCPP/LinkedList/linkedList.cpp#L24"> insert in taill </a></li>
