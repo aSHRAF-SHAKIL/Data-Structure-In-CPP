@@ -9,3 +9,13 @@
  [4.Search](https://github.com/aSHRAF-SHAKIL/dataStructureInCPP/blob/main/LinkedList/linkedList.cpp#L40)<br>
  
 </center>
+
+[-Stack](https://github.com/aSHRAF-SHAKIL/dataStructureInCPP/tree/main/Stack)<br>
+
+<center>
+
+  [1.20. Valid Parentheses(leetcode)](https://github.com/aSHRAF-SHAKIL/dataStructureInCPP/blob/main/Stack/20.%20Valid%20Parentheses(leetcode)/isvalid.cpp#L9)<br>
+  [2.71. Simplify Path(leetcode)](https://github.com/aSHRAF-SHAKIL/dataStructureInCPP/blob/main/Stack/71.%20Simplify%20Path(leetcode)/validDirectory.cpp#L10)<br>
+  3..
+
+</center>
